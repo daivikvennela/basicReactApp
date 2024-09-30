@@ -1,4 +1,8 @@
 ###
+npm run
+
+
+###
 mkdir my-react-app
 cd my-react-app
 
